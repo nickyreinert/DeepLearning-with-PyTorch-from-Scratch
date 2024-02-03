@@ -1,7 +1,10 @@
 /.DS_Store
 /.venv
-/data
+/.data
 /modelling.code-workspace
 text.text
 test_text.txt
+train_text.txt
+test_text.txt
+text.txt
 train_text.txt
