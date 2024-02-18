@@ -8,3 +8,4 @@ train_text.txt
 test_text.txt
 text.txt
 train_text.txt
+model.pth
